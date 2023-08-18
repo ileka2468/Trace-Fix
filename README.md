@@ -10,6 +10,7 @@ I developed this utility due to an existing issue on Linux that prevented the Tr
 - Python 3.x
 - watchdog (`pip install watchdog`)
 - GraphViz (`dot` command should be available)
+- Trace Utility - Author | James Riely https://fpl.cs.depaul.edu/jriely/visualization/
 
 ## Usage:
 \```bash
